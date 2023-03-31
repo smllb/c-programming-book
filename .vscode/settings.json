@@ -1,8 +1,0 @@
-{
-
-  //  "code-runner.runInTerminal": true
-  "cmake.cmakePath": "/usr/bin/cmake",
-  "files.associations": {
-    "1-20.C": "cpp"
-  },
-}
