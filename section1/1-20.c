@@ -1,4 +1,4 @@
-#include <stdio.h>
+s
 
 int actualColumn = 0;
 
